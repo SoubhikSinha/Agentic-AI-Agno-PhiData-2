@@ -49,4 +49,4 @@ agent_team = Team(
 )
 
 # Get something to ask to the team (the team of agents)
-agent_team.print_response("Analyze the stock prices of APple Inc., Tesla, Alphabet, NVIDIA and Microsoft - then suggest which one to buy for long term investment")
+agent_team.print_response("Analyze the stock prices of Apple Inc., Tesla, Alphabet, NVIDIA and Microsoft - then suggest which one to buy for long term investment")
